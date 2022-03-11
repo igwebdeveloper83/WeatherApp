@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Me</string>
+    <string name="text_view">Get a weather!</string>
+    <string name="text_hint_name">Add a city name</string>
+    <string name="button_1_text">Get</string>
+    <string name="no_user_input">Add a city!</string>
+    <string name="text_view2"></string>
+
+
+
+
+
+
+</resources>
