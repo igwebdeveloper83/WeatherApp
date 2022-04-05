@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_text_icon_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xhdpi\\text_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_text_icon.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xhdpi\\text_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable_button.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_text_icon.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxxhdpi\\text_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable_weather.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable\\weather.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_text_icon.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-anydpi-v26\\text_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_text_icon_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxxhdpi\\text_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_text_icon_round.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-anydpi-v26\\text_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable_text_icon_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable\\text_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable_clouds_image.jpg.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable\\clouds_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable_cold.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable\\cold.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_text_icon_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-mdpi\\text_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_text_icon_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxhdpi\\text_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable_hot.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable\\hot.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_text_icon.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-mdpi\\text_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_mild.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable-v24\\mild.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_input.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\drawable\\edit_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_text_icon.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-hdpi\\text_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_text_icon.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-xxhdpi\\text_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_text_icon_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\Wetter\\app\\src\\main\\res\\mipmap-hdpi\\text_icon_round.png"
+    }
+]

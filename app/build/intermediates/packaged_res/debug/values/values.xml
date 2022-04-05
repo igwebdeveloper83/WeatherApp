@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="ic_launcher_background">#405449</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_font_view">#CCC</color>
+    <color name="text_icon_background">#4E5852</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Weather Me</string>
+    <string name="button_1_text">Get</string>
+    <string name="no_user_input">Add a city!</string>
+    <string name="text_hint_name">Add a city name</string>
+    <string name="text_view">Get a weather!</string>
+    <string name="text_view2"/>
+    <style name="Theme.Wetter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
